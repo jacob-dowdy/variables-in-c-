@@ -14,7 +14,9 @@ int main() {
 
 	int numberCats = 5;
 	int numberDogs = 7;
+	int numberChipmunks = 1;
 	int numberAnimals = numberCats + numberDogs;
+
 
 	cout << "Number of cats: " << numberCats << endl;
 	cout << "Number of dogs: " << numberDogs << endl;
